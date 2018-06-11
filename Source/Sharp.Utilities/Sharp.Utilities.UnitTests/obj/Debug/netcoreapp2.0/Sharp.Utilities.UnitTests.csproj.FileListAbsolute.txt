@@ -1,0 +1,17 @@
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\bin\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.deps.json
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\bin\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.runtimeconfig.json
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\bin\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.runtimeconfig.dev.json
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\bin\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.dll
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\bin\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.pdb
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\bin\Debug\netcoreapp2.0\Sharp.Utilities.dll
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\bin\Debug\netcoreapp2.0\Sharp.Utilities.pdb
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\obj\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.csprojAssemblyReference.cache
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\obj\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.csproj.CoreCompileInputs.cache
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\obj\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.AssemblyInfoInputs.cache
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\obj\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.AssemblyInfo.cs
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\obj\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.csproj.CopyComplete
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\obj\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.dll
+E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities.UnitTests\obj\Debug\netcoreapp2.0\Sharp.Utilities.UnitTests.pdb
