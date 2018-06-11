@@ -1,9 +1,0 @@
-E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities\bin\Debug\netcoreapp2.0\Sharp.Utilities.deps.json
-E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities\bin\Debug\netcoreapp2.0\Sharp.Utilities.dll
-E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities\bin\Debug\netcoreapp2.0\Sharp.Utilities.pdb
-E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities\obj\Debug\netcoreapp2.0\Sharp.Utilities.csprojAssemblyReference.cache
-E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities\obj\Debug\netcoreapp2.0\Sharp.Utilities.csproj.CoreCompileInputs.cache
-E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities\obj\Debug\netcoreapp2.0\Sharp.Utilities.AssemblyInfoInputs.cache
-E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities\obj\Debug\netcoreapp2.0\Sharp.Utilities.AssemblyInfo.cs
-E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities\obj\Debug\netcoreapp2.0\Sharp.Utilities.dll
-E:\Development\Repositories\Personal\Sharp.Utilities\Source\Sharp.Utilities\Sharp.Utilities\obj\Debug\netcoreapp2.0\Sharp.Utilities.pdb
